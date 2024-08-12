@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 May 2023 00:27:57 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Parametreler</title>
+      <link>http://localhost:1313/docs/pmsv3-kavramsal/system/sys_params/</link>
+      <pubDate>Mon, 22 May 2023 00:27:57 +0100</pubDate>
+      <guid>http://localhost:1313/docs/pmsv3-kavramsal/system/sys_params/</guid>
+      <description>Tablo link Columns ID Param_Type Param_Code i18n ID PARAM_TYPE PARAM_CODE tr Parametre ID Tip Kod en Parameter ID Type Code Parametre kuralları linkParametre Tipi : Parametre tip bilgisini içerir.&#xA;Param Code : Parametre kod bilgisini içerir.</description>
+    </item>
+  </channel>
+</rss>
