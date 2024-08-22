@@ -29,3 +29,8 @@ title = 'My New Hugo Site'
     url = "docs/itp/"
     identifier = "itp"
     weight = 30
+[[menu.primary]]
+    name  = "MEDIAMARKT"
+    url = "docs/mm/"
+    identifier = "mm"
+    weight = 40
